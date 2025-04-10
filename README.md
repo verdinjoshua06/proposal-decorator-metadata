@@ -4,7 +4,7 @@
 
 **Stage**: 3
 
-**Spec Text**: https://github.com/pzuraq/ecma262/pull/10
+**Spec Text**: https://github.com@verdinjoshua06.com
 
 This proposal seeks to extend the [Decorators](https://github.com/tc39/proposal-decorators)
 proposal by adding the ability for decorators to associate _metadata_ with the
